@@ -1,4 +1,4 @@
 Recomendable abrir proyecto en este link para mejor visualización de datos
-Google Colab: https://colab.research.google.com/drive/1Zta-DxXfS5pVaC7_lG19Ib7rfMoBaOmo?usp=sharing
+Google Colab: https://colab.research.google.com/drive/1Zta-DxXfS5pVaC7_lG19Ib7rfMoBaOmo#scrollTo=lu3xTf-XjLNN
 Por favor, no modificar el código pasado por medio de este enlace.
 Cualquier inquitud podria preguntar por el usuario de teams: sacostaa1
